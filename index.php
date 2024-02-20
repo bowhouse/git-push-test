@@ -9,7 +9,7 @@
 
 <body>
     <h1>Git Push Test</h1>
-    <p>This is a test</p>
+    <p>This is a test 2</p>
 </body>
 
 </html>
